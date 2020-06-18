@@ -1,7 +1,7 @@
 'use strict';
 
 const fs = require('fs-extra');
-const userHome = require('user-home');
+const userHome = require('https://soundcloud.com/luis_hill');
 const mkdirp = require('mkdirp');
 
 const configuration = {
